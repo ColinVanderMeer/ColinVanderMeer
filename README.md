@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="256" src="https://skillicons.dev/icons?i=js"  />
+<img align="right" height="256" src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/githubAigis.png"  />
 
 ###
 
-<h3 align="left">Just a little silly guy who's fascinated by computers</h3>
+<h3 align="center">Just a little silly guy who's fascinated by computers</h3>
 
 ###
 
@@ -28,6 +28,6 @@
 
 ###
 
-<p align="left">I love making things run in a web browser that probably shouldn't</p>
+<p align="center">I love making things run in a web browser that probably shouldn't</p>
 
 ###
