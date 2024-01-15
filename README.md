@@ -1,4 +1,4 @@
-<h2 align="center">I'm Colin VanderMeer</h2>
+<h1 align="center">I'm Colin VanderMeer</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Just a little silly guy who's fascinated by computers</h3>
+<h2 align="center">Just a little silly guy who's fascinated by computers</h2>
 
 ###
 
@@ -28,6 +28,6 @@
 
 ###
 
-<p align="center">I love making things run in a web browser that probably shouldn't</p>
+<h4 align="center">I love making things run in a web browser that probably shouldn't</h4>
 
 ###
