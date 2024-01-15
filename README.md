@@ -28,6 +28,6 @@
 
 ###
 
-<h4 align="center">I love making things run in a web browser that probably shouldn't</h4>
+<p align="center"><b>I love making things run in a web browser that probably shouldn't</b></p>
 
 ###
