@@ -11,21 +11,23 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=godot" height="55" alt="godot logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ps" height="55" alt="adobephotoshop logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=blender" height="55" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="83" alt="python logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=java" height="83" alt="java logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=godot" height="83" alt="godot logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=git" height="83" alt="git logo"  />
 </div>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="83" alt="linux logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=pr" height="83" alt="adobe premiere logo"  />
+  <img width="22" />
+  <img src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/GimpIcon.png" height="83" alt="adobe premiere logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=blender" height="83" alt="blender logo"  />
+</div>
 ###
 
 <p align="center"><b>I love making things run in a web browser that probably shouldn't</b></p>
