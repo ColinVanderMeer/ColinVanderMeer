@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Just a silly little guy who's fascinated by computers</h2>
+<h3 style="font-size: 1.5em" align="center">Just a silly little guy who's fascinated by computers</h3>
 
 ###
 
