@@ -11,20 +11,24 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="83" alt="python logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=java" height="83" alt="java logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=godot" height="83" alt="godot logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=git" height="83" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="83" alt="Python Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=c" height="83" alt="C Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="83" alt="Java Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=godot" height="83" alt="Godot Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="83" alt="Git Logo"  />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="83" alt="linux logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=pr" height="83" alt="adobe premiere logo"  />
-  <img width="22" />
-  <img src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/GimpIcon.png" height="83" alt="adobe premiere logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=blender" height="83" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="83" alt="Linux Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="83" alt="Raspberry Pi logo (embedded)"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=pr" height="83" alt="Adobe Premiere Logo"  />
+  <img width="20" />
+  <img src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/GimpIcon.png" height="83" alt="Gimp Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=blender" height="83" alt="Blender Logo"  />
 </div>
