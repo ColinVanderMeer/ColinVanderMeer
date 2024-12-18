@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="256" src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/githubAigis.png"  />
+<img align="right" height="256" src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/githubAigis.png" style="padding-top: 53px;" />
 
 ###
 
