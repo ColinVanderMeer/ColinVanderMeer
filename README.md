@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="256" src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/githubAigis.png"  />
+<img align="right" height="256" src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/githubAigis.png" style="padding-top: 53px;"  />
 
 ###
 
@@ -18,17 +18,22 @@
   <img src="https://skillicons.dev/icons?i=java" height="83" alt="Java Logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=godot" height="83" alt="Godot Logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="83" alt="Git Logo"  />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="83" alt="Linux Logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="83" alt="Linux Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="83" alt="Raspberry Pi logo (embedded)"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="83" alt="Raspberry Pi logo (embedded)"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="83" alt="Adobe Premiere Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="83" alt="Blender Logo"  />
+</div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=pr" height="83" alt="Adobe Premiere Logo"  />
   <img width="20" />
   <img src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/GimpIcon.png" height="83" alt="Gimp Logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=blender" height="83" alt="Blender Logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=discord" height="83" alt="Blender Logo"  />
 </div>
