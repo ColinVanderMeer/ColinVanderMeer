@@ -11,29 +11,29 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="83" alt="Python Logo"  />
+  <img src="https://skillicons.dev/icons?i=py" width="83" alt="Python Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="83" alt="C Logo"  />
+  <img src="https://skillicons.dev/icons?i=c" width="83" alt="C Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="83" alt="Java Logo"  />
+  <img src="https://skillicons.dev/icons?i=java" width="83" alt="Java Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=godot" height="83" alt="Godot Logo"  />
+  <img src="https://skillicons.dev/icons?i=godot" width="83" alt="Godot Logo"  />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch" height="83" alt="Arch Linux Logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" width="83" alt="Arch Linux Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="83" alt="Linux Logo (Tux <3)"  />
+  <img src="https://skillicons.dev/icons?i=linux" width="83" alt="Linux Logo (Tux <3)"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="83" alt="Raspberry Pi logo (embedded)""  />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="83" alt="Raspberry Pi logo (embedded)""  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="83" alt="Git Logo"  />
+  <img src="https://skillicons.dev/icons?i=git" width="83" alt="Git Logo"  />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pr" height="83" alt="Adobe Premiere Logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" width="83" alt="Adobe Premiere Logo"  />
   <img width="20" />
-  <img src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/GimpIcon.png" height="83" alt="Gimp Logo"  />
+  <img src="https://raw.githubusercontent.com/ColinVanderMeer/ColinVanderMeer/main/GimpIcon.png" width="83" alt="Gimp Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=blender" height="83" alt="Blender Logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" width="83" alt="Blender Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=discord" height="83" alt="Discord Logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" width="83" alt="Discord Logo"  />
 </div>
